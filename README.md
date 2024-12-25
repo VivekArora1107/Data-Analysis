@@ -1,7 +1,3 @@
-Here’s a simplified version of the README tailored to a repository that contains only Tableau files:
-
----
-
 # Tableau Workbooks Repository
 
 This repository contains a collection of Tableau workbooks (`.twb` and `.twbx` files) showcasing various data visualizations and analyses.
