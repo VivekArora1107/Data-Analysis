@@ -41,4 +41,4 @@ Welcome to my Tableau dashboard collection! Below is a showcase of interactive d
 
 ### How to Use
 1. Click the **Interactive Link** below each dashboard to view it live on Tableau Public.
-2. Download related files (if provided) from the repository to explore the
+2. Download related files from the repository to explore more.
